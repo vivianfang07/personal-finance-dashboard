@@ -34,3 +34,7 @@ savings, and cash flow patterns across multiple users.
 - Power BI Service
 - Power Query (data cleaning)
 - DAX (calculated measures)
+
+## Dashboard Preview
+![Page 1](dashboard-page1.png)
+![Page 2](dashboard-page2.png)
