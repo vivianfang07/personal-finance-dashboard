@@ -36,5 +36,5 @@ savings, and cash flow patterns across multiple users.
 - DAX (calculated measures)
 
 ## Dashboard Preview
-![Page 1](dashboard-page1.png)
+![Page 1](dashboard-page1-updated.png)
 ![Page 2](dashboard-page2.png)
